@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="Antena 1">
+    <display-name lang="ro">Antena 1</display-name>
+    <icon src="https://static.cinemagia.ro/img/tv_station/antena-1.jpg"/>
+  </channel>
+  <programme start="20221228230000 +0200" stop="20221228232959 +0200" channel="Antena 1">
+    <title lang="ro">Observator</title>
+    <desc lang="ro">Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!</desc>
+  </programme>
+  <programme start="20221228233000 +0200" stop="20221229012959 +0200" channel="Antena 1">
+    <title lang="ro">Mame bune şi nebune</title>
+    <title lang="en">Bad Moms</title>
+    <desc lang="ro">Scenariştii filmului „Marea Mahmureală” aduc pe marile ecrane o nouă comedie nonconformistă „Mame bune şi nebune”, în care Mila Kunis, Kristen Bell şi Annie Mumolo sunt hotărâte să renunţe la prejudecăţi, în favoarea distracţiei. Aparent, Amy (Kunis) are o viaţă perfectă: o…</desc>
+    <credits>
+      <director>Scott Moore</director>
+      <director>Jon Lucas</director>
+      <actor>Mila Kunis</actor>
+      <actor>Kristen Bell</actor>
+      <actor>Kathryn Hahn</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="ro">Comedie</category>
+    <icon src="https://static.cinemagia.ro/img/resize/db/movie/62/36/43/bad-moms-260393l-600x0-w-fa35876b.jpg"/>
+    <rating system="CNA">
+      <value>N15</value>
+    </rating>
+    <star-rating system="IMDB">
+      <value>7.23/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20221229013000 +0200" stop="20221229025959 +0200" channel="Antena 1">
+    <title lang="ro">Haos de Crăciun</title>
+    <title lang="en">Love the Coopers</title>
+    <desc lang="ro">Ah, perioada sărbătorilor... Acele momente magice când toată lumea se adună... Și care îți amintesc un lucru...FAMILIA, UN CADOU PE CARE NU ÎL POȚI RETURNA!Charlotte Cooper (DIANE KEATON) are o dorință de Crăciun simplă. Vrea ca familia ei să aibă amintirea unui Crăciun perfect.…</desc>
+    <credits>
+      <director>Jessie Nelson</director>
+      <actor>Olivia Wilde</actor>
+      <actor>Marisa Tomei</actor>
+      <actor>John Goodman</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="ro">Comedie</category>
+    <icon src="https://static.cinemagia.ro/img/resize/db/movie/61/19/91/love-the-coopers-266546l-600x0-w-288b8a41.jpg"/>
+    <rating system="CNA">
+      <value>AG</value>
+    </rating>
+    <star-rating system="IMDB">
+      <value>6.56/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20221229030000 +0200" stop="20221229035959 +0200" channel="Antena 1">
+    <title lang="ro">Dragoste de tată</title>
+    <title lang="en">Benim Tatli Yalanim</title>
+    <desc lang="ro">Părăsit de soție, Nejat își minte fiica ca să nu o supere. Dar cum Kayra crește, minciunile devin insuportabile. Nejat nu mai știe cum să se descurce și crede că minciuna va fi descoperită, însă, destinul i-o scoate în cale pe Suna care le va schimba viețile, atât lui cât și…</desc>
+    <credits>
+      <director>Baris Ercetin</director>
+      <actor>Furkan Palali</actor>
+      <actor>Asli Bekiroglu</actor>
+      <actor>Lavinya Ünlüer</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="ro">Comedie</category>
+    <category lang="ro">Romantic</category>
+    <icon src="https://static.cinemagia.ro/img/resize/db/movie/28/61/991/benim-tatli-yalanim-712945l-600x0-w-14be6913.jpg"/>
+    <star-rating system="IMDB">
+      <value>9.06/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20221229040000 +0200" stop="20221229055959 +0200" channel="Antena 1">
+    <title lang="ro">Mame bune şi nebune</title>
+    <title lang="en">Bad Moms</title>
+    <desc lang="ro">Scenariştii filmului „Marea Mahmureală” aduc pe marile ecrane o nouă comedie nonconformistă „Mame bune şi nebune”, în care Mila Kunis, Kristen Bell şi Annie Mumolo sunt hotărâte să renunţe la prejudecăţi, în favoarea distracţiei. Aparent, Amy (Kunis) are o viaţă perfectă: o…</desc>
+    <credits>
+      <director>Scott Moore</director>
+      <director>Jon Lucas</director>
+      <actor>Mila Kunis</actor>
+      <actor>Kristen Bell</actor>
+      <actor>Kathryn Hahn</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="ro">Comedie</category>
+    <icon src="https://static.cinemagia.ro/img/resize/db/movie/62/36/43/bad-moms-260393l-600x0-w-fa35876b.jpg"/>
+    <rating system="CNA">
+      <value>N15</value>
+    </rating>
+    <star-rating system="IMDB">
+      <value>7.23/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20221229060000 +0200" stop="20221229075959 +0200" channel="Antena 1">
+    <title lang="ro">Observator</title>
+    <desc lang="ro">Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!</desc>
+  </programme>
+  <programme start="20221229080000 +0200" stop="20221229115959 +0200" channel="Antena 1">
+    <title lang="ro">Neatza cu Răzvan şi Dani</title>
+    <desc lang="ro">De luni până vineri ai 4 ore de bună dispoziție în care te pui la curent cu cele mai interesante și de actualitate subiecte ale dimineții. Meteo, rețete, ultimele piese muzicale sau ultimele sfaturi practice, ai totul pentru a-ți începe ziua cu zâmbetul pe buze.</desc>
+  </programme>
+  <programme start="20221229120000 +0200" stop="20221229135959 +0200" channel="Antena 1">
+    <title lang="ro">Observator</title>
+    <desc lang="ro">Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!</desc>
+  </programme>
+  <programme start="20221229140000 +0200" stop="20221229155959 +0200" channel="Antena 1">
+    <title lang="ro">Poftiți pe la noi: Poftiți la târg</title>
+    <desc lang="ro">Nea Mărin revine în mare forță alături de vedete pregătite să fie puse la treabă.</desc>
+  </programme>
+  <programme start="20221229160000 +0200" stop="20221229165959 +0200" channel="Antena 1">
+    <title lang="ro">Observator</title>
+    <desc lang="ro">Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!</desc>
+  </programme>
+  <programme start="20221229170000 +0200" stop="20221229185959 +0200" channel="Antena 1">
+    <title lang="ro"></title>
+  </programme>
+  <programme start="20221229190000 +0200" stop="20221229202959 +0200" channel="Antena 1">
+    <title lang="ro">Observator</title>
+    <desc lang="ro">Ştiri, reportaje, anchete, informaţii utile şi de ultimă oră. Fii observator!</desc>
+  </programme>
+  <programme start="20221229203000 +0200" stop="20221229232959 +0200" channel="Antena 1">
+    <title lang="ro">Minciuni adevărate</title>
+    <title lang="en">True Lies</title>
+    <desc lang="ro">Realizat de James Cameron intr-o serie de locatii luxuriante si riscante pentru distributie si echipa de productie, acest thriller, nominalizat la Oscar in anul 1995, pentru cele mai bune efecte vizuale, are in prim-plan un cuplu exploziv – Arnold Schwarzenegger si Jamie Lee Curtis. Schwarzenegger…</desc>
+    <credits>
+      <director>James Cameron</director>
+      <actor>Arnold Schwarzenegger</actor>
+      <actor>Jamie Lee Curtis</actor>
+    </credits>
+    <date>1994</date>
+    <category lang="ro">Acţiune</category>
+    <category lang="ro">Aventuri</category>
+    <icon src="https://static.cinemagia.ro/img/resize/db/movie/00/10/45/true-lies-434219l-600x0-w-292298d3.gif"/>
+    <star-rating system="IMDB">
+      <value>7.69/10</value>
+    </star-rating>
+  </programme>
+  <channel id="Prima TV">
+    <display-name lang="ro">Prima TV</display-name>
+    <icon src="https://static.cinemagia.ro/img/tv_station/prima-tv.jpg"/>
+  </channel>
+  <programme start="20221228230000 +0200" stop="20221228235959 +0200" channel="Prima TV">
+    <title lang="ro">Focus</title>
+    <desc lang="ro">Emisiunea Focus este setata pe ştiri relevante pentru fiecare, pe informaţia esenţiala, corectă şi obiectivă, pe poveşti şi fapte generatoate de plus-valoare în societate.</desc>
+  </programme>
+  <programme start="20221229000000 +0200" stop="20221229015959 +0200" channel="Prima TV">
+    <title lang="ro">Exclusiv VIP</title>
+    <desc lang="ro">Exclusivităţi, momente emoţionate, discuţii între prieteni şi după amiezi perfecte! Este reţeta cu care Cristi Brancu îşi asteaptă telespectatorii, la Prima TV. Cel mai longeviv prezentator de emisiuni mondene din România este pregătit să ii descoasă pe invitaţi şi să le afle toate secretele. Exclusiv VIP aduce, la Prima TV un suflu nou, fresh şi umple după amiezile de voie bună şi relaxare.</desc>
+  </programme>
+  <programme start="20221229020000 +0200" stop="20221229035959 +0200" channel="Prima TV">
+    <title lang="ro">Cronica cârcotaşilor</title>
+    <desc lang="ro">Emisiunea Cronica cârcotaşilor prezintă o variantă unică a celor mai importante noutăţi din domeniul politic, social, cultural sau economic. Telespectatorii vor mai afla şi cum stau românii la capitolul cultură generală prin rubrica “Vocea Poporului”, iar “Top Ruşinică” face clasamentul binecunoscut al gafelor din televiziuni.</desc>
+  </programme>
+  <programme start="20221229040000 +0200" stop="20221229052959 +0200" channel="Prima TV">
+    <title lang="ro">Focus</title>
+    <desc lang="ro">Emisiunea Focus este setata pe ştiri relevante pentru fiecare, pe informaţia esenţiala, corectă şi obiectivă, pe poveşti şi fapte generatoate de plus-valoare în societate.</desc>
+  </programme>
+  <programme start="20221229053000 +0200" stop="20221229062959 +0200" channel="Prima TV">
+    <title lang="ro">Doar pentru iubire</title>
+    <title lang="en">Solo per amore</title>
+    <desc lang="ro">Elena şi Pietro formează un cuplu fericit, au două fiice frumoase, o vilă elegantă la marginea oraşului şi un country club deţinut de familie. Dar când Pietro este răpit, Elena retrăieşte un coşmar de acum 20 ani, moment în care a fostă răpită. În timp ce era ţinută captivă, a…</desc>
+    <credits>
+      <director>Raffaele Mertes</director>
+      <actor>Kaspar Capparoni</actor>
+      <actor>Antonia Liskova</actor>
+      <actor>Massimo Poggio</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="ro">Acţiune</category>
+    <category lang="ro">Crimă</category>
+    <category lang="ro">Dramă</category>
+    <icon src="https://static.cinemagia.ro/img/resize/db/movie/89/97/79/solo-per-amore-441502l-600x0-w-8376f83d.jpg"/>
+  </programme>
+  <programme start="20221229063000 +0200" stop="20221229065959 +0200" channel="Prima TV">
+    <title lang="ro">Primii castiga - quiz show</title>
+    <desc lang="ro">Cu: Cove si Diana</desc>
+  </programme>
+  <programme start="20221229070000 +0200" stop="20221229075959 +0200" channel="Prima TV">
+    <title lang="ro">Starea naţiei</title>
+    <desc lang="ro">Dragoş Pătraru, gazda emisiunii „Starea Naţiei”, prezintă timp de o oră, cele mai importante evenimente ale momentului, în stilul deja cunoscut de telespectatorii săi. Echipa „Starea Naţiei” reuneşte într-un format unic toate uneltele umorului pentru a informa, a educa şi pentru a distra publicul.</desc>
+  </programme>
+  <programme start="20221229080000 +0200" stop="20221229085959 +0200" channel="Prima TV">
+    <title lang="ro">Focus</title>
+    <desc lang="ro">Emisiunea Focus este setata pe ştiri relevante pentru fiecare, pe informaţia esenţiala, corectă şi obiectivă, pe poveşti şi fapte generatoate de plus-valoare în societate.</desc>
+  </programme>
+  <programme start="20221229090000 +0200" stop="20221229092959 +0200" channel="Prima TV">
+    <title lang="ro"></title>
+  </programme>
+  <programme start="20221229093000 +0200" stop="20221229105959 +0200" channel="Prima TV">
+    <title lang="ro">Exclusiv VIP</title>
+    <desc lang="ro">Exclusivităţi, momente emoţionate, discuţii între prieteni şi după amiezi perfecte! Este reţeta cu care Cristi Brancu îşi asteaptă telespectatorii, la Prima TV. Cel mai longeviv prezentator de emisiuni mondene din România este pregătit să ii descoasă pe invitaţi şi să le afle toate secretele. Exclusiv VIP aduce, la Prima TV un suflu nou, fresh şi umple după amiezile de voie bună şi relaxare.</desc>
+  </programme>
+  <programme start="20221229110000 +0200" stop="20221229125959 +0200" channel="Prima TV">
+    <title lang="ro"></title>
+  </programme>
+  <programme start="20221229130000 +0200" stop="20221229135959 +0200" channel="Prima TV">
+    <title lang="ro">Doar pentru iubire</title>
+    <title lang="en">Solo per amore</title>
+    <desc lang="ro">Elena şi Pietro formează un cuplu fericit, au două fiice frumoase, o vilă elegantă la marginea oraşului şi un country club deţinut de familie. Dar când Pietro este răpit, Elena retrăieşte un coşmar de acum 20 ani, moment în care a fostă răpită. În timp ce era ţinută captivă, a…</desc>
+    <credits>
+      <director>Raffaele Mertes</director>
+      <actor>Kaspar Capparoni</actor>
+      <actor>Antonia Liskova</actor>
+      <actor>Massimo Poggio</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="ro">Acţiune</category>
+    <category lang="ro">Crimă</category>
+    <category lang="ro">Dramă</category>
+    <icon src="https://static.cinemagia.ro/img/resize/db/movie/89/97/79/solo-per-amore-441502l-600x0-w-8376f83d.jpg"/>
+  </programme>
+  <programme start="20221229140000 +0200" stop="20221229152959 +0200" channel="Prima TV">
+    <title lang="ro">Focus</title>
+    <desc lang="ro">Emisiunea Focus este setata pe ştiri relevante pentru fiecare, pe informaţia esenţiala, corectă şi obiectivă, pe poveşti şi fapte generatoate de plus-valoare în societate.</desc>
+  </programme>
+  <programme start="20221229153000 +0200" stop="20221229172959 +0200" channel="Prima TV">
+    <title lang="ro">Exclusiv VIP</title>
+    <desc lang="ro">Exclusivităţi, momente emoţionate, discuţii între prieteni şi după amiezi perfecte! Este reţeta cu care Cristi Brancu îşi asteaptă telespectatorii, la Prima TV. Cel mai longeviv prezentator de emisiuni mondene din România este pregătit să ii descoasă pe invitaţi şi să le afle toate secretele. Exclusiv VIP aduce, la Prima TV un suflu nou, fresh şi umple după amiezile de voie bună şi relaxare.</desc>
+  </programme>
+  <programme start="20221229173000 +0200" stop="20221229175459 +0200" channel="Prima TV">
+    <title lang="ro">Flash monden</title>
+    <desc lang="ro">Flash Monden are o gamă diversificată de subiecte, de la hobby-uri la trucuri de stil, accentul emisiunii fiind pe zona de stiri mondene. Astfel, Flash Monden îsi propune să atragă, atât prin subiectele abordate, cât si prin ora de difuzare, publicul tânăr din România, interesat să afle mai multe informaţii despre cum îsi poate îmbunătăţi sau schimba stilul de viaţă.</desc>
+  </programme>
+  <programme start="20221229175500 +0200" stop="20221229175959 +0200" channel="Prima TV">
+    <title lang="ro"></title>
+  </programme>
+  <programme start="20221229180000 +0200" stop="20221229191459 +0200" channel="Prima TV">
+    <title lang="ro">Focus 18</title>
+    <desc lang="ro">La Focus 18, cel mai important jurnal de stiri, telespectatorii pot urmări, in fiecare zi, atât materiale în exclusivitate, cât şi rubrici dedicate sau reportaje speciale.</desc>
+  </programme>
+  <programme start="20221229191500 +0200" stop="20221229195959 +0200" channel="Prima TV">
+    <title lang="ro">Primii castiga - quiz show</title>
+    <desc lang="ro">Cu: Cove si Diana</desc>
+  </programme>
+  <programme start="20221229200000 +0200" stop="20221229215959 +0200" channel="Prima TV">
+    <title lang="ro">Spitalul Bellevue</title>
+    <title lang="en">New Amsterdam</title>
+    <desc lang="ro">Cel mai vechi spital din America are un director nou: nonconformistul dr. Max Goodwin, care vine să schimbe situația și să salveze viețile pacienților.</desc>
+    <credits>
+      <director>Michael Slovis</director>
+      <actor>Ryan Eggold</actor>
+      <actor>Freema Agyeman</actor>
+      <actor>Jocko Sims</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="ro">Dramă</category>
+    <icon src="https://static.cinemagia.ro/img/resize/db/movie/24/35/275/new-amsterdam-778932l-600x0-w-d8ce85bd.jpg"/>
+    <star-rating system="IMDB">
+      <value>8.00/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20221229220000 +0200" stop="20221229225959 +0200" channel="Prima TV">
+    <title lang="ro">Starea naţiei</title>
+    <desc lang="ro">Dragoş Pătraru, gazda emisiunii „Starea Naţiei”, prezintă timp de o oră, cele mai importante evenimente ale momentului, în stilul deja cunoscut de telespectatorii săi. Echipa „Starea Naţiei” reuneşte într-un format unic toate uneltele umorului pentru a informa, a educa şi pentru a distra publicul.</desc>
+  </programme>
+  <programme start="20221229230000 +0200" stop="20221229235959 +0200" channel="Prima TV">
+    <title lang="ro">Focus</title>
+    <desc lang="ro">Emisiunea Focus este setata pe ştiri relevante pentru fiecare, pe informaţia esenţiala, corectă şi obiectivă, pe poveşti şi fapte generatoate de plus-valoare în societate.</desc>
+  </programme>
+  <channel id="Discovery Channel">
+    <display-name lang="ro">Discovery Channel</display-name>
+    <icon src="https://www.programetv.ro/img/station/discovery-channel.jpg"/>
+  </channel>
+  <programme start="20221229070000 +0200" stop="20221229075959 +0200" channel="Discovery Channel">
+    <title lang="ro">Maşini pe alese</title>
+    <sub-title lang="ro">Honda CVCC din 1977</sub-title>
+    <desc lang="ro">Mike Brewer alege un microbuz VW Camper care are mare nevoie de experienţa lui Edd China. Edd începe cu o schimbare de eşapament şi un service complet la motorul diesel.</desc>
+    <category lang="ro">Documentar</category>
+    <icon src="https://www.programetv.ro/img/shows/28/77/masini-pe-alese.jpg?key=Z2lfZnVial90cmFyZXZwLzAwLzAwLzcyLzM5MjcyN3ktMTIwazE3MC1hLTducHM0MnAwLndjdA=="/>
+    <episode-num system="onscreen">S13 E3</episode-num>
+  </programme>
+  <programme start="20221229080000 +0200" stop="20221229085959 +0200" channel="Discovery Channel">
+    <title lang="ro">Maşini pe alese</title>
+    <desc lang="ro">Mike Brewer alege un microbuz VW Camper care are mare nevoie de experienţa lui Edd China. Edd începe cu o schimbare de eşapament şi un service complet la motorul diesel.</desc>
+    <category lang="ro">Documentar</category>
+    <icon src="https://www.programetv.ro/img/shows/28/77/masini-pe-alese.jpg?key=Z2lfZnVial90cmFyZXZwLzAwLzAwLzcyLzM5MjcyN3ktMTIwazE3MC1hLTducHM0MnAwLndjdA=="/>
+    <episode-num system="onscreen">S15 E25</episode-num>
+  </programme>
+  <programme start="20221229090000 +0200" stop="20221229092959 +0200" channel="Discovery Channel">
+    <title lang="ro">Cum se fabrică ?</title>
+    <sub-title lang="ro">Șervețele, rulote, papuci, căști pentru motocicliști</sub-title>
+    <desc lang="ro">Această serie se duce direct la producător, pentru a afla cum au fost realizate anumite produse pe care le găsim în orice locuinţă.</desc>
+    <category lang="ro">Documentar</category>
+    <icon src="https://www.programetv.ro/img/shows/70/74/cum-se-fabrica.jpg?key=Z2lfZnVial90cmFyZXZwLzAwLzAwLzY5LzIxMzg3NHktMTIwazE3MC1hLTlvMzI4NDByLndjdA=="/>
+    <episode-num system="onscreen">S20 E6</episode-num>
+  </programme>
+  <programme start="20221229093000 +0200" stop="20221229095959 +0200" channel="Discovery Channel">
+    <title lang="ro">Cum se fabrică ?</title>
+    <sub-title lang="ro">Restaurarea statuilor, trepiede, cârnaţi polonezi şi aparate de sudură</sub-title>
+    <desc lang="ro">Această serie se duce direct la producător, pentru a afla cum au fost realizate anumite produse pe care le găsim în orice locuinţă.</desc>
+    <category lang="ro">Documentar</category>
+    <icon src="https://www.programetv.ro/img/shows/70/74/cum-se-fabrica.jpg?key=Z2lfZnVial90cmFyZXZwLzAwLzAwLzY5LzIxMzg3NHktMTIwazE3MC1hLTlvMzI4NDByLndjdA=="/>
+    <episode-num system="onscreen">S23 E17</episode-num>
+  </programme>
+  <programme start="20221229100000 +0200" stop="20221229102959 +0200" channel="Discovery Channel">
+    <title lang="ro">Bogății ascunse în magazii</title>
+    <desc lang="ro">Henry Cole și un guru al motocicletelor, Sam Lovegrove, merg din Cornwall până în Oxfordshire ca să scotocească prin magazii uimitoare din Marea Britanie și să facă rost de bani.</desc>
+    <category lang="ro">Documentar</category>
+    <episode-num system="onscreen">S4 E13</episode-num>
+  </programme>
+  <programme start="20221229103000 +0200" stop="20221229105959 +0200" channel="Discovery Channel">
+    <title lang="ro">Bagaje la licitaţie</title>
+    <sub-title lang="ro">Exploziv</sub-title>
+    <desc lang="ro">Trei echipe de specialişti în licitaţii se întrec pe Aeroportul Internaţional Miami pentru a cumpăra bagaje pierdute, ajunse aici din toată lumea. Vor obţine vreun profit ?</desc>
+    <category lang="ro">Documentar</category>
+    <icon src="https://www.programetv.ro/img/shows/42/6a/bagaje-la-licitatie.jpg?key=Z2lfZnVial90cmFyZXZwLzAwLzA4LzU4LzUzMTIxMnktMTIwazE3MC1hLTVyNDM4cjA5LndjdA=="/>
+    <episode-num system="onscreen">S2 E4</episode-num>
+  </programme>
+  <programme start="20221229110000 +0200" stop="20221229115959 +0200" channel="Discovery Channel">
+    <title lang="ro">Căutătorii de aur din Marea Bering</title>
+    <sub-title lang="ro">Iarnă la greu</sub-title>
+    <desc lang="ro">A început sezonul, iar orăşelul-port Nome freamătă, căci vânătorii de comori răscolesc fundul mării, căutând aur. Cine va da lovitura şi cine va pierde tot ce are ?</desc>
+    <category lang="ro">Documentar</category>
+    <icon src="https://www.programetv.ro/img/shows/29/a9/cautatorii-de-aur-din-marea-bering.jpg?key=Z2lfZnVial90cmFyZXZwLzAwLzEyLzA0Lzk2Mzc2MXktMTIwazE3MC1hLXA2ODBybjBvLndjdA=="/>
+    <episode-num system="onscreen">S9 E22</episode-num>
+  </programme>
+  <programme start="20221229120000 +0200" stop="20221229125959 +0200" channel="Discovery Channel">
+    <title lang="ro">Comori arhitecturale recuperate</title>
+    <desc lang="ro">De la hornul unui conac părăginit până la domul de sticlă spectaculos al unei structuri victoriene excentrice, Drew Prichard vânează comori arhitecturale minunate, uitate de lume.</desc>
+    <category lang="ro">Documentar</category>
+    <icon src="https://www.programetv.ro/img/shows/53/5d/comori-arhitecturale-recuperate.jpg?key=Z2lfZnVial90cmFyZXZwLzAwLzMwLzM0LzQ1OTAyMXktMTIwazE3MC1hLTg0MTgxMTEwLndjdA=="/>
+    <episode-num system="onscreen">S15 E5</episode-num>
+  </programme>
+  <programme start="20221229130000 +0200" stop="20221229135959 +0200" channel="Discovery Channel">
+    <title lang="ro">Maşini pe alese</title>
+    <desc lang="ro">Mike Brewer alege un microbuz VW Camper care are mare nevoie de experienţa lui Edd China. Edd începe cu o schimbare de eşapament şi un service complet la motorul diesel.</desc>
+    <category lang="ro">Documentar</category>
+    <icon src="https://www.programetv.ro/img/shows/28/77/masini-pe-alese.jpg?key=Z2lfZnVial90cmFyZXZwLzAwLzAwLzcyLzM5MjcyN3ktMTIwazE3MC1hLTducHM0MnAwLndjdA=="/>
+    <episode-num system="onscreen">S15 E15</episode-num>
+  </programme>
+  <programme start="20221229140000 +0200" stop="20221229145959 +0200" channel="Discovery Channel">
+    <title lang="ro">Garajul lui Kindig</title>
+    <sub-title lang="ro">Ultimul Mopar</sub-title>
+    <desc lang="ro">Dave Kindig modifică vehicule unicat pentru clienții lui foarte exigenți. Lucrează cu mașini de toate felurile și din toate epocile, pe care le reface complet.</desc>
+    <category lang="ro">Documentar</category>
+    <episode-num system="onscreen">S5 E13</episode-num>
+  </programme>
+  <programme start="20221229150000 +0200" stop="20221229155959 +0200" channel="Discovery Channel">
+    <title lang="ro">Garajul lui Kindig</title>
+    <sub-title lang="ro">Un Coronet foarte tare</sub-title>
+    <desc lang="ro">Dave Kindig modifică vehicule unicat pentru clienții lui foarte exigenți. Lucrează cu mașini de toate felurile și din toate epocile, pe care le reface complet.</desc>
+    <category lang="ro">Documentar</category>
+    <episode-num system="onscreen">S5 E14</episode-num>
+  </programme>
+  <programme start="20221229160000 +0200" stop="20221229165959 +0200" channel="Discovery Channel">
+    <title lang="ro">Garajul lui Kindig</title>
+    <sub-title lang="ro">Maşina arată impecabil</sub-title>
+    <desc lang="ro">Dave Kindig modifică vehicule unicat pentru clienții lui foarte exigenți. Lucrează cu mașini de toate felurile și din toate epocile, pe care le reface complet.</desc>
+    <category lang="ro">Documentar</category>
+    <episode-num system="onscreen">S4 E2</episode-num>
+  </programme>
+  <programme start="20221229170000 +0200" stop="20221229172959 +0200" channel="Discovery Channel">
+    <title lang="ro">Bogății ascunse în magazii</title>
+    <sub-title lang="ro">Din Cornwall în Oxfordshire</sub-title>
+    <desc lang="ro">Henry Cole și un guru al motocicletelor, Sam Lovegrove, merg din Cornwall până în Oxfordshire ca să scotocească prin magazii uimitoare din Marea Britanie și să facă rost de bani.</desc>
+    <category lang="ro">Documentar</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20221229173000 +0200" stop="20221229175959 +0200" channel="Discovery Channel">
+    <title lang="ro">Bagaje la licitaţie</title>
+    <sub-title lang="ro">Episod 9</sub-title>
+    <desc lang="ro">Trei echipe de specialişti în licitaţii se întrec pe Aeroportul Internaţional Miami pentru a cumpăra bagaje pierdute, ajunse aici din toată lumea. Vor obţine vreun profit ?</desc>
+    <category lang="ro">Documentar</category>
+    <icon src="https://www.programetv.ro/img/shows/42/6a/bagaje-la-licitatie.jpg?key=Z2lfZnVial90cmFyZXZwLzAwLzA4LzU4LzUzMTIxMnktMTIwazE3MC1hLTVyNDM4cjA5LndjdA=="/>
+    <episode-num system="onscreen">S2 E9</episode-num>
+  </programme>
+  <programme start="20221229180000 +0200" stop="20221229185959 +0200" channel="Discovery Channel">
+    <title lang="ro">Comori arhitecturale recuperate</title>
+    <desc lang="ro">De la hornul unui conac părăginit până la domul de sticlă spectaculos al unei structuri victoriene excentrice, Drew Prichard vânează comori arhitecturale minunate, uitate de lume.</desc>
+    <category lang="ro">Documentar</category>
+    <icon src="https://www.programetv.ro/img/shows/53/5d/comori-arhitecturale-recuperate.jpg?key=Z2lfZnVial90cmFyZXZwLzAwLzMwLzM0LzQ1OTAyMXktMTIwazE3MC1hLTg0MTgxMTEwLndjdA=="/>
+    <episode-num system="onscreen">S13 E4</episode-num>
+  </programme>
+  <programme start="20221229190000 +0200" stop="20221229192959 +0200" channel="Discovery Channel">
+    <title lang="ro">Cum se fabrică ?</title>
+    <sub-title lang="ro">Corturi de pânză/Pipa păcii/Tunuri</sub-title>
+    <desc lang="ro">Această serie se duce direct la producător, pentru a afla cum au fost realizate anumite produse pe care le găsim în orice locuinţă.</desc>
+    <category lang="ro">Documentar</category>
+    <icon src="https://www.programetv.ro/img/shows/70/74/cum-se-fabrica.jpg?key=Z2lfZnVial90cmFyZXZwLzAwLzAwLzY5LzIxMzg3NHktMTIwazE3MC1hLTlvMzI4NDByLndjdA=="/>
+    <episode-num system="onscreen">S19 E3</episode-num>
+  </programme>
+  <programme start="20221229193000 +0200" stop="20221229195959 +0200" channel="Discovery Channel">
+    <title lang="ro">Cum se fabrică ?</title>
+    <sub-title lang="ro">Sculpturi de sticlă, inductori</sub-title>
+    <desc lang="ro">Această serie se duce direct la producător, pentru a afla cum au fost realizate anumite produse pe care le găsim în orice locuinţă.</desc>
+    <category lang="ro">Documentar</category>
+    <icon src="https://www.programetv.ro/img/shows/70/74/cum-se-fabrica.jpg?key=Z2lfZnVial90cmFyZXZwLzAwLzAwLzY5LzIxMzg3NHktMTIwazE3MC1hLTlvMzI4NDByLndjdA=="/>
+    <episode-num system="onscreen">S25 E21</episode-num>
+  </programme>
+  <programme start="20221229200000 +0200" stop="20221229205959 +0200" channel="Discovery Channel">
+    <title lang="ro">Maşini pe alese</title>
+    <desc lang="ro">Mike Brewer alege un microbuz VW Camper care are mare nevoie de experienţa lui Edd China. Edd începe cu o schimbare de eşapament şi un service complet la motorul diesel.</desc>
+    <category lang="ro">Documentar</category>
+    <icon src="https://www.programetv.ro/img/shows/28/77/masini-pe-alese.jpg?key=Z2lfZnVial90cmFyZXZwLzAwLzAwLzcyLzM5MjcyN3ktMTIwazE3MC1hLTducHM0MnAwLndjdA=="/>
+    <episode-num system="onscreen">S17 E8</episode-num>
+  </programme>
+  <programme start="20221229210000 +0200" stop="20221229212959 +0200" channel="Discovery Channel">
+    <title lang="ro">Bogății ascunse în magazii</title>
+    <desc lang="ro">Henry Cole și un guru al motocicletelor, Sam Lovegrove, merg din Cornwall până în Oxfordshire ca să scotocească prin magazii uimitoare din Marea Britanie și să facă rost de bani.</desc>
+    <category lang="ro">Documentar</category>
+    <episode-num system="onscreen">S4 E19</episode-num>
+  </programme>
+  <programme start="20221229213000 +0200" stop="20221229215959 +0200" channel="Discovery Channel">
+    <title lang="ro">Bogății ascunse în magazii</title>
+    <desc lang="ro">Henry Cole și un guru al motocicletelor, Sam Lovegrove, merg din Cornwall până în Oxfordshire ca să scotocească prin magazii uimitoare din Marea Britanie și să facă rost de bani.</desc>
+    <category lang="ro">Documentar</category>
+    <episode-num system="onscreen">S4 E20</episode-num>
+  </programme>
+  <programme start="20221229220000 +0200" stop="20221229225959 +0200" channel="Discovery Channel">
+    <title lang="ro">Comori restaurate</title>
+    <desc lang="ro">Alex, tâmplar de mobilier, reface un scrin de 300 de ani, cândva superb, dar acum bun de pus pe foc. Drew îl provoacă pe taxidermistul Chris să refacă un vultur victorian împăiat.</desc>
+    <category lang="ro">Documentar</category>
+    <episode-num system="onscreen">S4 E5</episode-num>
+  </programme>
+  <programme start="20221229230000 +0200" stop="20221229235959 +0200" channel="Discovery Channel">
+    <title lang="ro">Comori auto recuperate</title>
+    <sub-title lang="ro">Jaguar XJS &amp; Renault 4</sub-title>
+    <desc lang="ro">Drew și Paul găsesc un Golf GTI clasic la o companie de recuzită pentru filme. Într-un șopron din Suffolk, Drew găsește un Lotus Elan din anii 1970, care trebuie refăcut radical.</desc>
+    <category lang="ro">Documentar</category>
+    <episode-num system="onscreen">S2 E5</episode-num>
+  </programme>
+  <programme start="20221230000000 +0200" stop="20221230002959 +0200" channel="Discovery Channel">
+    <title lang="ro">Bogății ascunse în magazii</title>
+    <desc lang="ro">Henry Cole și un guru al motocicletelor, Sam Lovegrove, merg din Cornwall până în Oxfordshire ca să scotocească prin magazii uimitoare din Marea Britanie și să facă rost de bani.</desc>
+    <category lang="ro">Documentar</category>
+    <episode-num system="onscreen">S4 E7</episode-num>
+  </programme>
+  <programme start="20221230003000 +0200" stop="20221230005959 +0200" channel="Discovery Channel">
+    <title lang="ro">Bogății ascunse în magazii</title>
+    <desc lang="ro">Henry Cole și un guru al motocicletelor, Sam Lovegrove, merg din Cornwall până în Oxfordshire ca să scotocească prin magazii uimitoare din Marea Britanie și să facă rost de bani.</desc>
+    <category lang="ro">Documentar</category>
+    <episode-num system="onscreen">S4 E8</episode-num>
+  </programme>
+  <programme start="20221230010000 +0200" stop="20221230015959 +0200" channel="Discovery Channel">
+    <title lang="ro">Comori restaurate</title>
+    <desc lang="ro">Alex, tâmplar de mobilier, reface un scrin de 300 de ani, cândva superb, dar acum bun de pus pe foc. Drew îl provoacă pe taxidermistul Chris să refacă un vultur victorian împăiat.</desc>
+    <category lang="ro">Documentar</category>
+    <episode-num system="onscreen">S4 E5</episode-num>
+  </programme>
+  <programme start="20221230020000 +0200" stop="20221230025959 +0200" channel="Discovery Channel">
+    <title lang="ro">Comori auto recuperate</title>
+    <sub-title lang="ro">Jaguar XJS &amp; Renault 4</sub-title>
+    <desc lang="ro">Drew și Paul găsesc un Golf GTI clasic la o companie de recuzită pentru filme. Într-un șopron din Suffolk, Drew găsește un Lotus Elan din anii 1970, care trebuie refăcut radical.</desc>
+    <category lang="ro">Documentar</category>
+    <episode-num system="onscreen">S2 E5</episode-num>
+  </programme>
+  <programme start="20221230030000 +0200" stop="20221230032959 +0200" channel="Discovery Channel">
+    <title lang="ro">Bogății ascunse în magazii</title>
+    <desc lang="ro">Henry Cole și un guru al motocicletelor, Sam Lovegrove, merg din Cornwall până în Oxfordshire ca să scotocească prin magazii uimitoare din Marea Britanie și să facă rost de bani.</desc>
+    <category lang="ro">Documentar</category>
+    <episode-num system="onscreen">S4 E7</episode-num>
+  </programme>
+  <channel id="HBO">
+    <display-name lang="ro">HBO</display-name>
+    <icon src="https://www.programetv.ro/img/station/hbo.jpg"/>
+  </channel>
+  <programme start="20221229073500 +0200" stop="20221229091959 +0200" channel="HBO">
+    <title lang="ro">Dansul dragostei</title>
+    <title lang="en">Step Up</title>
+    <desc lang="ro">Tyler Gage este un rebel din latura rau famata a orasului Baltimore, si singurul lucru care sta intre el si o viata ratata sunt visele sale de a scapa odata de acolo.</desc>
+    <credits>
+      <director>Anne Fletcher</director>
+      <actor>Channing Tatum</actor>
+      <actor>Jenna Dewan-Tatum</actor>
+      <actor>Richard Pelzman</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="ro">Film</category>
+    <category lang="ro">Dramă</category>
+    <category lang="ro">Muzical</category>
+    <category lang="ro">Romantic</category>
+    <category lang="ro">Dragoste</category>
+    <icon src="https://www.programetv.ro/img/shows/37/58/dansul-dragostei.jpg?key=emJpdnIvMDEvNTcvMzcvZmdyYy1oYy03NjkyMTR5LTEyMGsxNzAtYS1zM3M3MTNwci53Y3Q="/>
+    <country lang="ro">SUA</country>
+    <rating system="CNA">
+      <value>AG</value>
+    </rating>
+    <star-rating system="IMDB">
+      <value>6.50/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20221229092000 +0200" stop="20221229104459 +0200" channel="HBO">
+    <title lang="ro">Pirații! O bandă de neisprăviți</title>
+    <title lang="en">The Pirates! Band of Misfits</title>
+    <desc lang="ro">Piratul Căpitan este hotărât să câştige titlul de Piratul anului, dar pentru asta trebuie să le vină de hac marilor săi concurenţi, Black Bellamy şi Cutlass Liz.</desc>
+    <credits>
+      <director>Peter Lord</director>
+      <director>Jeff Newitt</director>
+      <actor>Salma Hayek</actor>
+      <actor>Martin Freeman</actor>
+      <actor>Jeremy Piven</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="ro">Animaţie</category>
+    <category lang="ro">Aventuri</category>
+    <category lang="ro">Familie</category>
+    <icon src="https://www.programetv.ro/img/shows/45/61/piratii-o-banda-de-neispraviti.jpg?key=emJpdnIvNDgvNTEvOTIvZ3VyLWN2ZW5ncmYtb25hcS1icy16dmZzdmdmLTcxMzU2OXktMTIwazE3MC1hLXM0NjNzcHAyLndjdA=="/>
+    <country lang="ro">Marea Britanie</country>
+    <country lang="ro">SUA</country>
+    <rating system="CNA">
+      <value>AG</value>
+    </rating>
+    <star-rating system="IMDB">
+      <value>6.70/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20221229104500 +0200" stop="20221229132959 +0200" channel="HBO">
+    <title lang="ro">Transformers: Exterminarea</title>
+    <title lang="en">Transformers: Age of Extinction</title>
+    <desc lang="ro">Rasa umană încearcă să se refacă după evenimentele din Transformers: Dark of the Moon, iar Autoboţii şi Decepticonii au dispărut cu toţii de pe faţa Pământului. Însă, un grup de ingenioşi şi puternici oameni de afaceri, forţează limitele tehnologiei.</desc>
+    <credits>
+      <director>Michael Bay</director>
+      <actor>Mark Wahlberg</actor>
+      <actor>Nicola Peltz</actor>
+      <actor>Jack Reynor</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="ro">Film</category>
+    <category lang="ro">Acţiune</category>
+    <category lang="ro">Aventuri</category>
+    <category lang="ro">Sf</category>
+    <icon src="https://www.programetv.ro/img/shows/4e/1e/transformers-exterminarea.jpg?key=emJpdnIvNTcvMTcvNjIvZ2VuYWZzYmV6cmVmLW50ci1icy1ya2d2YXBndmJhLTEwNTY2MXktMTIwazE3MC1hLTZxOW9uMXM5LndjdA=="/>
+    <country lang="ro">SUA</country>
+    <rating system="CNA">
+      <value>AP12</value>
+    </rating>
+    <star-rating system="IMDB">
+      <value>5.60/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20221229133000 +0200" stop="20221229150459 +0200" channel="HBO">
+    <title lang="ro">Crăciun la Hollywood</title>
+    <title lang="en">A Hollywood Christmas</title>
+    <credits>
+      <director>Alex Ranarivelo</director>
+      <actor>Jessika Van</actor>
+      <actor>Josh Swickard</actor>
+      <actor>Anissa Borrego</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="ro">Film</category>
+    <icon src="https://www.programetv.ro/img/shows/7a/62/craciun-la-hollywood.jpg?key=emJpdnIvMzIvNTQvMzIzL24tdWJ5eWxqYmJxLXB1ZXZmZ3puZi03NDc4MTl5LTEyMGsxNzAtYS0yNzNubjlwcy53Y3Q="/>
+    <rating system="CNA">
+      <value>12</value>
+    </rating>
+    <star-rating system="IMDB">
+      <value>5.20/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20221229150500 +0200" stop="20221229172459 +0200" channel="HBO">
+    <title lang="ro">Regele Richard: Crescând campioni</title>
+    <title lang="en">King Richard</title>
+    <desc lang="ro">Regele Richard: Crescând campioni spune povestea lui Richard Williams, un tată intransigent, care a contribuit la creșterea a doi dintre cei mai talentați sportivi din toate timpurile, Venus și Serena Williams.</desc>
+    <credits>
+      <director>Reinaldo Marcus Green</director>
+      <actor>Will Smith</actor>
+      <actor>Jon Bernthal</actor>
+      <actor>Dylan McDermott</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="ro">Film</category>
+    <category lang="ro">Dramă</category>
+    <category lang="ro">Sport</category>
+    <icon src="https://www.programetv.ro/img/shows/a3/1f/regele-richard-crescand-campioni.jpg?key=emJpdnIvMjYvMzUvODU5L3h2YXQtZXZwdW5lcS00MDc2MzF5LTEyMGsxNzAtYS1ucDI2MzIyOC53Y3Q="/>
+    <country lang="ro">SUA</country>
+    <rating system="CNA">
+      <value>AG</value>
+    </rating>
+    <star-rating system="IMDB">
+      <value>7.50/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20221229172500 +0200" stop="20221229195959 +0200" channel="HBO">
+    <title lang="ro">Casa Gucci</title>
+    <title lang="en">House of Gucci</title>
+    <desc lang="ro">Întins pe trei decenii pline cu dragoste, trădare, decadență, răzbunare, și, în final, crimă, House of Gucci ne arată ce poate însemna un nume și cât de departe va merge o familie pentru a rămâne în control.</desc>
+    <credits>
+      <director>Ridley Scott</director>
+      <actor>Adam Driver</actor>
+      <actor>Jared Leto</actor>
+      <actor>Al Pacino</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="ro">Film</category>
+    <category lang="ro">Crimă</category>
+    <category lang="ro">Dramă</category>
+    <category lang="ro">Thriller</category>
+    <icon src="https://www.programetv.ro/img/shows/7d/a8/casa-gucci.jpg?key=emJpdnIvMzAvNDIvNjEzL3ViaGZyLWJzLXRocHB2LTUxNjE5NXktMTIwazE3MC1hLTAxNTA1cDgzLndjdA=="/>
+    <country lang="ro">SUA</country>
+    <rating system="CNA">
+      <value>N15</value>
+    </rating>
+    <star-rating system="IMDB">
+      <value>6.60/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20221229200000 +0200" stop="20221229223459 +0200" channel="HBO">
+    <title lang="ro">Dune</title>
+    <title lang="en">Dune: Part One</title>
+    <desc lang="ro">„Dune” spune povestea lui Paul Atreides, un tânăr strălucit și talentat, născut într-un mare destin, dincolo de înțelegerea sa, care trebuie să meargă pe cea mai periculoasă planetă din univers pentru a asigura viitorul familiei și poporului său.</desc>
+    <credits>
+      <director>Denis Villeneuve</director>
+      <actor>Jason Momoa</actor>
+      <actor>Rebecca Ferguson</actor>
+      <actor>Zendaya</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="ro">Film</category>
+    <category lang="ro">Aventuri</category>
+    <category lang="ro">Dramă</category>
+    <category lang="ro">Sf</category>
+    <icon src="https://www.programetv.ro/img/shows/1c/4f/dune.jpg?key=emJpdnIvMDIvNjIvNjIvcWhhci05MjA1MTV5LTEyMGsxNzAtYS01cjRvcjducS53Y3Q="/>
+    <country lang="ro">SUA</country>
+    <country lang="ro">Ungaria</country>
+    <country lang="ro">Canada</country>
+    <rating system="CNA">
+      <value>AP12</value>
+    </rating>
+    <star-rating system="IMDB">
+      <value>8.00/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20221229223500 +0200" stop="20221230001459 +0200" channel="HBO">
+    <title lang="ro">Toți cei care mă vor mort</title>
+    <title lang="en">Those Who Wish Me Dead</title>
+    <desc lang="ro">Angelina Jolie este Hannah, o femeie pompier care încă se reface dupa pierderea a trei vieți pe care nu a reușit să le salveze dintr-un incendiu şi care întâlneşte un băiat de 12 ani traumatizat şi fără adăpost.</desc>
+    <credits>
+      <director>Taylor Sheridan</director>
+      <actor>Angelina Jolie</actor>
+      <actor>Nicholas Hoult</actor>
+      <actor>Jon Bernthal</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="ro">Film</category>
+    <category lang="ro">Acţiune</category>
+    <category lang="ro">Dramă</category>
+    <category lang="ro">Thriller</category>
+    <icon src="https://www.programetv.ro/img/shows/71/2f/toti-cei-care-ma-vor-mort.jpg?key=emJpdnIvMzAvMzUvMzEzL2d1YmZyLWp1Yi1qdmZ1LXpyLXFybnEtNzA2OTE4eS0xMjBrMTcwLWEtMXE5NDJxcXIud2N0"/>
+    <country lang="ro">Canada</country>
+    <country lang="ro">SUA</country>
+    <rating system="CNA">
+      <value>AP12</value>
+    </rating>
+    <star-rating system="IMDB">
+      <value>6.00/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20221230001500 +0200" stop="20221230015459 +0200" channel="HBO">
+    <title lang="ro">Dramele de la liceu</title>
+    <category lang="ro">Documentar</category>
+    <rating system="CNA">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20221230015500 +0200" stop="20221230025459 +0200" channel="HBO">
+    <title lang="ro">Shaq</title>
+    <sub-title lang="ro">De la Shaq la Shaquille</sub-title>
+    <category lang="ro">Documentar</category>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20221230025500 +0200" stop="20221230042959 +0200" channel="HBO">
+    <title lang="ro">Peace by Chocolate</title>
+    <desc lang="ro">După bombardarea fabricii de ciocolată a tatălui său, Tareq Hadhad, un tânăr sirian refugiat, încearcă să se adapteze la noua viață dintr-un orășel canadian, prins între dorința de a-și urma visul și menținerea moștenirii familiei lui.</desc>
+    <credits>
+      <director>Jonathan Keijser</director>
+      <actor>Hatem Ali</actor>
+      <actor>Ayham Abou Ammar</actor>
+      <actor>Yara Sabri</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="ro">Film</category>
+    <category lang="ro">Comedie</category>
+    <category lang="ro">Dramă</category>
+    <icon src="https://www.programetv.ro/img/shows/29/f0/peace-by-chocolate.jpg?key=emJpdnIvMzIvMzEvNzcxL2NybnByLW9sLXB1YnBieW5nci00Mzk2OTh5LTEyMGsxNzAtYS1uMzJuNzFyci53Y3Q="/>
+    <rating system="CNA">
+      <value>12</value>
+    </rating>
+    <star-rating system="IMDB">
+      <value>6.80/10</value>
+    </star-rating>
+  </programme>
+</tv>
